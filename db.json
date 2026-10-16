@@ -1,0 +1,285 @@
+{
+  "users": [
+    {
+      "name": "vijay",
+      "phone": "0000000001",
+      "password": "1",
+      "id": "gRPYi40dmzA"
+    },
+    {
+      "name": "Siva",
+      "phone": "0000000002",
+      "password": "2",
+      "id": "5zR02RgAY9U"
+    },
+    {
+      "name": "ravi",
+      "phone": "3333333333",
+      "password": "333",
+      "id": "4xrxEEFVqYo"
+    },
+    {
+      "name": "Sudharsan",
+      "phone": "9998887777",
+      "password": "987",
+      "id": "xcRzX0eBQjo"
+    },
+    {
+      "name": "vijay",
+      "phone": "0101010101",
+      "password": "01",
+      "id": "DoOjlqhERks"
+    }
+  ],
+  "plans": [
+    {
+      "operator": "Airtel",
+      "price": 299,
+      "data": "1.5GB/day",
+      "validity": "28 days",
+      "id": "H5-qO2RMK2A"
+    },
+    {
+      "operator": "Airtel",
+      "price": 379,
+      "data": "2GB/day",
+      "validity": "28 days",
+      "id": "y7h7vb1INkU"
+    },
+    {
+      "operator": "Airtel",
+      "price": 579,
+      "data": "1.5GB/day",
+      "validity": "56 days",
+      "id": "b2PVH6gidrU"
+    },
+    {
+      "operator": "Airtel",
+      "price": 649,
+      "data": "2GB/day",
+      "validity": "56 days",
+      "id": "SyQ0JCYAfHw"
+    },
+    {
+      "operator": "Airtel",
+      "price": 859,
+      "data": "84 days",
+      "validity": "1.5GB/day",
+      "id": "9sJ_SFFdkr8"
+    },
+    {
+      "operator": "Airtel",
+      "price": 979,
+      "data": "84 days",
+      "validity": "2GB/day",
+      "id": "VG9uXp3Z8Vc"
+    },
+    {
+      "operator": "Airtel",
+      "price": 3599,
+      "data": "365 days",
+      "validity": "2GB/day",
+      "id": "5flIvKqdg3M"
+    },
+    {
+      "operator": "Jio",
+      "price": 299,
+      "data": "1.5GB/day",
+      "validity": "28 days",
+      "id": "Tz4wC67w-q4"
+    },
+    {
+      "operator": "Jio",
+      "price": 349,
+      "data": "2GB/day",
+      "validity": "28 days",
+      "id": "_CsTft4t5eg"
+    },
+    {
+      "operator": "Jio",
+      "price": 579,
+      "data": "1.5GB/day",
+      "validity": "56 days",
+      "id": "KTzXA8hrtx0"
+    },
+    {
+      "operator": "Jio",
+      "price": 629,
+      "data": "2GB/day",
+      "validity": "56 days",
+      "id": "AY8IDX9aHc4"
+    },
+    {
+      "operator": "Jio",
+      "price": 889,
+      "data": "1.5GB/day",
+      "validity": "84 days",
+      "id": "2Dj75Xjy3cA"
+    },
+    {
+      "operator": "Jio",
+      "price": 859,
+      "data": "2GB/day",
+      "validity": "84 days",
+      "id": "lwllgXoZvls"
+    },
+    {
+      "operator": "Jio",
+      "price": 3599,
+      "data": "2GB/day",
+      "validity": "365 days",
+      "id": "HmkW3wbwY7w"
+    },
+    {
+      "operator": "Vi",
+      "price": 349,
+      "data": "1.5GB/day",
+      "validity": "28 days",
+      "id": "ah_meLL0aHI"
+    },
+    {
+      "operator": "Vi",
+      "price": 365,
+      "data": "2GB/day",
+      "validity": "28 days",
+      "id": "TcuL2y1Y38s"
+    },
+    {
+      "operator": "Vi",
+      "price": 579,
+      "data": "1.5GB/day",
+      "validity": "56 days",
+      "id": "4Ea27mPpoKE"
+    },
+    {
+      "operator": "Vi",
+      "price": 649,
+      "data": "2GB/day",
+      "validity": "56 days",
+      "id": "XE5uElSlp9I"
+    },
+    {
+      "operator": "Vi",
+      "price": 859,
+      "data": "1.5GB/day",
+      "validity": "84 days",
+      "id": "idIlfhKVwlo"
+    },
+    {
+      "operator": "Vi",
+      "price": 979,
+      "data": "2GB/day",
+      "validity": "84 days",
+      "id": "gNS5wxnlECc"
+    },
+    {
+      "operator": "Vi",
+      "price": 3599,
+      "data": "2GB/day",
+      "validity": "365 days",
+      "id": "bEmYqsBybRc"
+    },
+    {
+      "operator": "BSNL",
+      "price": 187,
+      "data": "1.5GB/day",
+      "validity": "28 days",
+      "id": "VSKI7m1CyTM"
+    },
+    {
+      "operator": "BSNL",
+      "price": 199,
+      "data": "28 days",
+      "validity": "2GB/day",
+      "id": "BQgZ2ySgwh4"
+    },
+    {
+      "operator": "BSNL",
+      "price": 329,
+      "data": "1.5GB/day",
+      "validity": "56 days",
+      "id": "F6bl7TMXJaE"
+    },
+    {
+      "operator": "BSNL",
+      "price": 379,
+      "data": "2GB/day",
+      "validity": "56 days",
+      "id": "V8umJREDujc"
+    },
+    {
+      "operator": "BSNL",
+      "price": 485,
+      "data": "1.5GB/day",
+      "validity": "84 days",
+      "id": "3tPxcYPcXDg"
+    },
+    {
+      "operator": "BSNL",
+      "price": 521,
+      "data": "2GB/day",
+      "validity": "84 days",
+      "id": "XRYUBVIT4Es"
+    },
+    {
+      "operator": "BSNL",
+      "price": 2025,
+      "data": "2GB/day",
+      "validity": "365 days",
+      "id": "rUxEAgHEFVI"
+    }
+  ],
+  "recharges": [
+    {
+      "id": "AV_474L5l1g",
+      "mobile": "9922334412",
+      "operator": "BSNL",
+      "amount": 2025,
+      "paymentMethod": "UPI",
+      "status": "Success",
+      "date": "4/18/2026, 4:23:58 PM",
+      "userPhone": "0101010101"
+    },
+    {
+      "id": "kjFs_kOxk5A",
+      "mobile": "1221312112",
+      "operator": "Jio",
+      "amount": 349,
+      "paymentMethod": "UPI",
+      "status": "Success",
+      "date": "4/18/2026, 4:24:39 PM",
+      "userPhone": "0000000002"
+    },
+    {
+      "id": "Jz1FLKdzOD0",
+      "mobile": "1221222222",
+      "operator": "Jio",
+      "amount": 299,
+      "paymentMethod": "UPI",
+      "status": "Success",
+      "date": "4/18/2026, 4:32:19 PM",
+      "userPhone": "0000000001"
+    },
+    {
+      "id": "IIOHI8EYpKs",
+      "mobile": "3242324234",
+      "operator": "Vi",
+      "amount": 979,
+      "paymentMethod": "UPI",
+      "status": "Success",
+      "date": "4/18/2026, 5:38:54 PM",
+      "userPhone": "9998887777"
+    },
+    {
+      "id": "TfTpvOThWLc",
+      "mobile": "6576565765",
+      "operator": "Vi",
+      "amount": 979,
+      "paymentMethod": "Card",
+      "status": "Success",
+      "date": "4/18/2026, 5:39:29 PM",
+      "userPhone": "9998887777"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
